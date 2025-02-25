@@ -5,11 +5,11 @@ from tkinter.filedialog import askopenfilename
 
 # Database connection details
 db_config = {
-    'user': 'readonly_user',
-    'password': 'password123',
-    'host': 'production-8-sep-night.cqtlpb5sm2vt.ap-northeast-1.rds.amazonaws.com',
-    'database': 'api_backend',
-    'port': 3306
+      'user': ****
+    'password': ****
+    'host': ****
+    'database': ****
+    'port': ****
 }
 
 # Create the connection string
